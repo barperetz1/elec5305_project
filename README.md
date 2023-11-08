@@ -1,2 +1,3 @@
 # elec5305_project
-Audio Signal Processing using Image techniques
+### Audio Signal Processing using Image techniques
+##### Bar Peretz
